@@ -109,6 +109,9 @@ export default function LotteryEntrance() {
             ) : (
                 <div>No Raffle Address Detected</div>
             )}
+            <div className=" mt-10 ml-10 flex flex-row-reverse text-2xl"> Vasu Bhardwaj</div>
+            <div className="flex flex-row justify-end text-lg">Connect on: </div>
+            <a href="https://github.com/vasubhrdwj" className=" flex flex-row-reverse text-lg text-yellow-500 underline ...">GitHub</a>
         </div>
     )
 }
