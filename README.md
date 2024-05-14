@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-#### Checkout the deployment: [Decentralized Lottery](https://holy-cherry-2711.on.fleek.co/)
+#### Checkout the deployment: [Decentralized Lottery](https://next-js-lottery-ten.vercel.app/)
 
 ## Getting Started
 
